@@ -18,6 +18,6 @@ This project analyzes Uber trip data in New York City using Python.
 ## Installation
 Clone the repository and install the required packages:
 ```bash
-git clone https://github.com/your-username/uber-new-york-analysis.git
+git clone https://github.com/Wahaj14/uber-new-york-analysis.git
 cd uber-new-york-analysis
 pip install -r requirements.txt
